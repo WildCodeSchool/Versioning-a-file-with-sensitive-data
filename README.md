@@ -20,26 +20,6 @@ define("USER", "");
 define("PASS", "");
 ```
 
-If you check the versionning
-
-```sh
-git status
-
-```
-You can see the file is not followed yet but changes are detected.
-
-```sh
-Sur la branche master
-
-Aucun commit
-
-Fichiers non suivis:
-  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
-
-	connect.php
-
-aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
-
 ```
 As used, you can add it to the history
 
